@@ -1,0 +1,30 @@
+Category
+1. Create
+    a. Create_User
+    b. Create_Order
+    c. Create_Complaint  -- Extra
+    d. Create_cart       -- Extra
+2. Update
+    a. Update_Address    
+    b. Update_Profile    
+    c. Update_
+3. Read
+    a. Read_Menu
+4. Delete
+    a. Delete_Address
+    b. Delete_Order
+    c. Delete_User       -- Extra
+
+Menu is hardcoded.
+Category	Item ID	Item	Description	Price
+Pizza	1	Margherita	Fresh tomatoes, fresh mozzarella, fresh basil	$12.50
+Pizza	2	Formaggio	Four cheeses (mozzarella, parmesan, pecorino, jarlsberg)	$15.50
+Pizza	3	Chicken	Fresh tomatoes, mozzarella, chicken, onions	$17.00
+Pizza	4	Pineapple'o'clock	Fresh tomatoes, mozzarella, fresh pineapple, bacon, fresh basil	$16.50
+Pizza	5	Meat Town	Fresh tomatoes, mozzarella, hot pepporoni, hot sausage, beef, chicken	$20.00
+Pasta	6	Lasagna	Special sauce, mozzarella, parmesan, ground beef	$13.50
+Pasta	7	Ravioli	Ravioli filled with cheese	$14.50
+Pasta	8	Spaghetti Classica	Fresh tomatoes, onions, ground beef	$11.00
+Starters	9	Today's Soup	Ask the waiter	$5.50
+Starters	10	Bruschetta	Bread with pesto, tomatoes, onion, garlic	$8.50
+Starters	11	Garlic bread	Grilled ciabatta, garlic butter, onions	$9.50    
