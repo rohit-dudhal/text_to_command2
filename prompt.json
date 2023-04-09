@@ -1,0 +1,24 @@
+{"prompt": "burger hai?", "completion": {"extraParams": {"item": "burger", "languageCodes": ["hi", "en"],"query": "burger"}, "operationType": "READ", "userAction": "SEARCH_BY_FOOD_QUERY"}},
+{"prompt": "pizza hai?", "completion": {"extraParams": {"item": "pizza", "languageCodes": ["hi", "en"], "query": "pizza"}, "operationType": "READ", "userAction": "SEARCH_BY_FOOD_QUERY"}}
+{"prompt": "menu batato", "completion": {"extraParams": {"item": null, "languageCodes": ["hi", "en"], "query": null}, "operationType": "READ", "userAction": "SHOW_MENU"}}
+{"prompt": "ek masal dosa do", "completion": {"extraParams": {"item": "masal dosa", "languageCodes": ["hi"], "query": "masal dosa"}, "operationType": "READ", "userAction": "SEARCH_BY_FOOD_QUERY"}}
+{"prompt": "mera order cancle kardo", "completion": {"extraParams": {"item": null, "languageCodes": ["hi", "en"], "query": null}, "operationType": "DELETE", "userAction": "DELETE"}}
+{"prompt": "medu vada cancle krdo masal dosa add krdo", "completion": {"extraParams": {"item": ["masala dosa", "medu vada"], "languageCodes": ["hi", "en"], "query": null}, "operationType": "UPDATE", "userAction": "UPDATE_ORDER"}}
+{"prompt": "sprite dena", "completion": {"extraParams": {"item": "sprite", "languageCodes": ["en"], "query": "sprite"}, "operationType": "READ", "userAction": "SEARCH_BY_FOOD_QUERY"}}
+{"prompt": "sweets hai?", "completion": {"extraParams": {"item": null, "languageCodes": ["en"], "query": null}, "operationType": "UNKNOWN", "userAction": "UNKNOWN"}}
+{"prompt": "menu batato", "completion": }
+{"prompt": "menu batato", "completion": }
+{"prompt": "menu batato", "completion": }
+{"prompt": "menu batato", "completion": }
+{"prompt": "menu batato", "completion": }
+{"prompt": "menu batato", "completion": }
+{"prompt": "menu batato", "completion": }
+{"prompt": "menu batato", "completion": }
+{"prompt": "menu batato", "completion": }
+{"prompt": "menu batato", "completion": }
+{"prompt": "menu batato", "completion": }
+{"prompt": "menu batato", "completion": }
+{"prompt": "menu batato", "completion": }
+{"prompt": "menu batato", "completion": }
+{"prompt": "menu batato", "completion": }
+{"prompt": "menu batato", "completion": }

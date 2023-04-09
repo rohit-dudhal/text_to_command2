@@ -4,7 +4,7 @@ import pandas as pd
 
 
 # Set up the OpenAI API client
-openai.api_key = "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"
+openai.api_key = "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"
 
 # Set up the model and prompt
 model_engine = "text-davinci-003"
