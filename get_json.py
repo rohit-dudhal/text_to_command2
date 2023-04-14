@@ -7,7 +7,7 @@ import pandas as pd
 openai.api_key = "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"
 
 # Set up the model and prompt
-model_engine = "davinci:ft-personal-2023-04-14-07-28-56"
+model_engine = "text-davinci-003"
 global prompt 
 prompt=input()
 
