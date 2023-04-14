@@ -1,0 +1,210 @@
+{"prompt":"burger hai? ->","completion":" 'burger', 'languageCodes': ['hi'], 'query': 'burger'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"pizza hai? -> ->","completion":" 'pizza', 'languageCodes': ['hi'], 'query': 'pizza'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"menu batato ->","completion":" None, 'languageCodes': ['hi'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"ek masal dosa do ->","completion":" 'masal dosa', 'languageCodes': ['hi'], 'query': 'masal dosa'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"sprite dena ->","completion":" 'sprite', 'languageCodes': ['hi'], 'query': 'sprite'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"sweets hai? ->","completion":" None, 'languageCodes': ['hi'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"meethe mai kya hai? ->","completion":" None, 'languageCodes': ['hi'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"vada pav hai kya? ->","completion":" 'vada pav', 'languageCodes': ['hi'], 'query': 'vada pav'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"dum biryani kitneki hai? ->","completion":" 'biryani', 'languageCodes': ['hi'], 'query': 'dum biryani'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"Aloo paratha milega kya ->","completion":" 'Aloo paratha', 'languageCodes': ['hi'], 'query': 'Aloo paratha'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"puran poli milegi ->","completion":" 'Puran Poli', 'languageCodes': ['hi'], 'query': 'Puran Poli'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"panir bhurji lana ek ->","completion":" 'panir bhurji', 'languageCodes': ['hi'], 'query': 'panir bhurji'}, 'operationType': 'CREATE', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"ek shahi paneer bolna to ->","completion":" 'Shahi Paneer', 'languageCodes': ['hi'], 'query': 'Shahi Paneer'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"Do you have burger? ->","completion":" 'burger', 'languageCodes': ['en'], 'query': 'burger'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"Do you have pizza? ->","completion":" 'pizza', 'languageCodes': ['en'], 'query': 'pizza'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"Please show me the menu ->","completion":" None, 'languageCodes': ['en'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"Can I have one Masala Dosa please? ->","completion":" 'masal dosa', 'languageCodes': ['en'], 'query': 'masal dosa'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"Can I have a Sprite? ->","completion":" 'sprite', 'languageCodes': ['en'], 'query': 'sprite'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"Do you have any sweets? ->","completion":" None, 'languageCodes': ['en'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"What desserts do you have? ->","completion":" None, 'languageCodes': ['en'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"Do you have Vada Pav? ->","completion":" 'vada pav', 'languageCodes': ['en'], 'query': 'vada pav'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"How much is the Dum Biryani? ->","completion":" 'biryani', 'languageCodes': ['en'], 'query': 'dum biryani'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"Do you have Aloo Paratha? ->","completion":" 'Aloo paratha', 'languageCodes': ['en'], 'query': 'Aloo paratha'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"Do you have Puran Poli? ->","completion":" 'Puran Poli', 'languageCodes': ['en'], 'query': 'Puran Poli'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"Get me a paneer bhurji ->","completion":" 'panir bhurji', 'languageCodes': ['en'], 'query': 'panir bhurji'}, 'operationType': 'CREATE', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"Can you give me a shahi paneer please ->","completion":" 'Shahi Paneer', 'languageCodes': ['en'], 'query': 'Shahi Paneer'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"तुमच्याकडे बर्गर आहेत का? ->","completion":" 'burger', 'languageCodes': ['mr'], 'query': 'burger'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"तुमच्याकडे पिझ्झा आहे का? ->","completion":" 'pizza', 'languageCodes': ['mr'], 'query': 'pizza'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"कृपया मेनू दाखवा ->","completion":" None, 'languageCodes': ['mr'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"एक मसाला डोसा द्या नक्कीच ->","completion":" 'masal dosa', 'languageCodes': ['mr'], 'query': 'masal dosa'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"मला एक स्प्राईट द्या शकता? ->","completion":" 'sprite', 'languageCodes': ['mr'], 'query': 'sprite'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"तुमच्याकडे काही मिठाई आहेत का? ->","completion":" None, 'languageCodes': ['mr'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"तुमच्याकडे कोणत्या डेझर्ट आहेत? ->","completion":" None, 'languageCodes': ['mr'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"तुमच्याकडे वडा पाव आहेत का? ->","completion":" 'vada pav', 'languageCodes': ['mr'], 'query': 'vada pav'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"डम बिरयानी किती आहे? ->","completion":" 'biryani', 'languageCodes': ['mr'], 'query': 'dum biryani'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"तुमच्याकडे आलू पराठा आहेत का? ->","completion":" 'Aloo paratha', 'languageCodes': ['mr'], 'query': 'Aloo paratha'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"तुमच्याकडे पुरण पोळी आहे का? ->","completion":" 'Puran Poli', 'languageCodes': ['mr'], 'query': 'Puran Poli'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"मला पनीर भुर्जी घ्या ->","completion":" 'panir bhurji', 'languageCodes': ['mr'], 'query': 'panir bhurji'}, 'operationType': 'CREATE', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"कृपया मला शाही पनीर द्या ->","completion":" 'Shamr Paneer', 'languageCodes': ['mr'], 'query': 'Shamr Paneer'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"ਕੀ ਤੁਸੀਂ ਬਰਗਰ ਹੈ? ->","completion":" 'burger', 'languageCodes': ['pa'], 'query': 'burger'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"ਕੀ ਤੁਸੀਂ ਪਿਜ਼ਜਾ ਹੈ? ->","completion":" 'pizza', 'languageCodes': ['pa'], 'query': 'pizza'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"ਕਿਰਪਾ ਕਰਕੇ ਮੇਨੂ ਦਿਖਾਓ ->","completion":" None, 'languageCodes': ['pa'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"ਕੀ ਮੈਂ ਇੱਕ ਮਸਾਲਾ ਡੋਸਾ ਪਾ ਸਕਦਾ ਹਾਂ? ->","completion":" 'masal dosa', 'languageCodes': ['pa'], 'query': 'masal dosa'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"ਕੀ ਮੈਂ ਸਪਰਾਈਟ ਲੈ ਸਕਦਾ ਹਾਂ? ->","completion":" 'sprite', 'languageCodes': ['pa'], 'query': 'sprite'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"ਕੀ ਤੁਸੀਂ ਕੋਈ ਮਿੱਠੇ ਹੈਂ? ->","completion":" None, 'languageCodes': ['pa'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"ਤੁਸੀਂ ਕਿਹੜੇ ਡੈਸਰਟ ਹੈਂ? ->","completion":" None, 'languageCodes': ['pa'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"ਕੀ ਤੁਸੀਂ ਵੜਾ ਪਾਵ ਹੈ? ->","completion":" 'vada pav', 'languageCodes': ['pa'], 'query': 'vada pav'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"ਦੁਮ ਬਿਰਯਾਨੀ ਕਿਤਨਾ ਹੈ? ->","completion":" 'biryani', 'languageCodes': ['pa'], 'query': 'dum biryani'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"ਕੀ ਤੁਸੀਂ ਆਲੂ ਪਰਾਠਾ ਹੈ? ->","completion":" 'Aloo paratha', 'languageCodes': ['pa'], 'query': 'Aloo paratha'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"तुसीं कोई पुरानी पोली दिसदी? ->","completion":" 'Puran Poli', 'languageCodes': ['pa'], 'query': 'Puran Poli'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"मैं एक पनीर भुर्जी ला दो ->","completion":" 'panir bhurji', 'languageCodes': ['pa'], 'query': 'panir bhurji'}, 'operationType': 'CREATE', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"कृपया मैं एक शाही पनीर दे सकते हैं? ->","completion":" 'Shapa Paneer', 'languageCodes': ['hi'], 'query': 'Shapa Paneer'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"क्या आपके पास बर्गर है? ->","completion":" 'burger', 'languageCodes': ['hi'], 'query': 'burger'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"क्या आपके पास पिज्जा है? ->","completion":" 'pizza', 'languageCodes': ['hi'], 'query': 'pizza'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"कृपया मेनू दिखाएं ->","completion":" None, 'languageCodes': ['hi'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"क्या मुझे एक मसाला डोसा मिल सकता है? ->","completion":" 'masal dosa', 'languageCodes': ['hi'], 'query': 'masal dosa'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"क्या मुझे एक स्प्राइट मिल सकता है? ->","completion":" 'sprite', 'languageCodes': ['hi'], 'query': 'sprite'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"क्या आपके पास कोई मिठाई है? ->","completion":" None, 'languageCodes': ['hi'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"आपके पास कौन सी मिठाई है? ->","completion":" None, 'languageCodes': ['hi'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"क्या आपके पास वडा पाव है? ->","completion":" 'vada pav', 'languageCodes': ['hi'], 'query': 'vada pav'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"दम बिरयानी की कीमत क्या है? ->","completion":" 'biryani', 'languageCodes': ['hi'], 'query': 'dum biryani'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"क्या आपके पास आलू पराठा है? ->","completion":" 'Aloo paratha', 'languageCodes': ['hi'], 'query': 'Aloo paratha'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"क्या आपके पास पूरन पोली है? ->","completion":" 'Puran Poli', 'languageCodes': ['hi'], 'query': 'Puran Poli'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"मुझे एक पनीर भुर्जी देना ->","completion":" 'panir bhurji', 'languageCodes': ['hi'], 'query': 'panir bhurji'}, 'operationType': 'CREATE', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"क्या आप मुझे एक शाही पनीर दे सकते हैं? ->","completion":" 'Shahi Paneer', 'languageCodes': ['hi'], 'query': 'Shahi Paneer'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"உங்களில் புர்க்கர் உண்டா? ->","completion":" 'burger', 'languageCodes': ['ta'], 'query': 'burger'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"உங்களில் பிழ்ச்சா உண்டா? ->","completion":" 'pizza', 'languageCodes': ['ta'], 'query': 'pizza'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"மெனு காண்கிறதா? ->","completion":" None, 'languageCodes': ['ta'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MtaU'}"}
+{"prompt":"ஒரு மசாலா தோசை தருவதாகவும் ->","completion":" 'masal dosa', 'languageCodes': ['ta'], 'query': 'masal dosa'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"ஒரு ஸ்பிரைட் தருகிறீர்களா? ->","completion":" 'sprite', 'languageCodes': ['ta'], 'query': 'sprite'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"நீங்கள் ஏதேனும் இனிப்பு உண்டா? ->","completion":" None, 'languageCodes': ['ta'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"நீங்கள் எந்த டெசர்ட்ஸ் உண்டு? ->","completion":" None, 'languageCodes': ['ta'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"உங்களுக்கு வடா பவ் உண்டா? ->","completion":" 'vada pav', 'languageCodes': ['ta'], 'query': 'vada pav'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"டம் பிரியாணி எவ்வளவு? ->","completion":" 'biryani', 'languageCodes': ['ta'], 'query': 'dum biryani'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"உங்களுக்கு ஆலு பராட்டா உண்டா? ->","completion":" 'Aloo paratha', 'languageCodes': ['ta'], 'query': 'Aloo paratha'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"உங்களுக்கு புரண் போலி உண்டா? ->","completion":" 'Puran Poli', 'languageCodes': ['ta'], 'query': 'Puran Poli'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"ஒரு பனீர் புர்ஜி எடுத்து கொடுக்கலாமா ->","completion":" 'panir bhurji', 'languageCodes': ['ta'], 'query': 'panir bhurji'}, 'operationType': 'CREATE', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"சாகி பனீர் கொடுக்க முடியுமா தயவுசெய்து ->","completion":" 'Shahi Paneer', 'languageCodes': ['ta'], 'query': 'Shahi Paneer'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"chicken tadoori lana ek ->","completion":" 'chicken tandoori', 'languageCodes': ['hi'], 'query': 'chicken tandoori'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"fried rice dena 1 plate ->","completion":" 'fried rice', 'languageCodes': ['hi'], 'query': 'fried rice'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"சிக்கன் தந்தூரி வேண்டுமா? ->","completion":" 'chicken tandoori', 'languageCodes': ['ta'], 'query': 'chicken tandoori'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"ஃபிரைட் ரைஸ் ஒரு பிளேட் கொடுக்கவும் ->","completion":" 'fried rice', 'languageCodes': ['ta'], 'query': 'fried rice'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"मुर्ग तंदूरी एक ला ->","completion":" 'chicken tandoori', 'languageCodes': ['mr'], 'query': 'chicken tandoori'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"एक प्लेट फ्राइड राइस द्या ->","completion":" 'fried rice', 'languageCodes': ['mr'], 'query': 'fried rice'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"चिकन तंदूरी लाना एक ->","completion":" 'chicken tandoori', 'languageCodes': ['hi'], 'query': 'chicken tandoori'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"फ्राइड राइस देना 1 प्लेट ->","completion":" 'fried rice', 'languageCodes': ['hi'], 'query': 'fried rice'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"Bring one chicken tandoori ->","completion":" 'chicken tandoori', 'languageCodes': ['en'], 'query': 'chicken tandoori'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"Give one plate of fried rice ->","completion":" 'fried rice', 'languageCodes': ['en'], 'query': 'fried rice'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"ਇੱਕ ਚਿੱਕਨ ਤੰਦੂਰੀ ਲਾਓ ->","completion":" 'chicken tandoori', 'languageCodes': ['pa'], 'query': 'chicken tandoori'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"ਇੱਕ ਪਲੇਟ ਫਰਾਈਡ ਰਾਈਸ ਦਿਓ ->","completion":" 'fried rice', 'languageCodes': ['pa'], 'query': 'fried rice'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"khane mai kya hai? ->","completion":" None, 'languageCodes': ['hi'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"aaj breakfast mai kya hai? ->","completion":" None, 'languageCodes': ['hi'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"dinner mai kya hai? ->","completion":" None, 'languageCodes': ['hi'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"bhai menu lana jara ->","completion":" None, 'languageCodes': ['hi'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"menu mai kya hai? ->","completion":" None, 'languageCodes': ['hi'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"ajj ka menu bata ->","completion":" None, 'languageCodes': ['hi'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"special dish kya hai aaj menu mai? ->","completion":" None, 'languageCodes': ['hi'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"veg menu lana ->","completion":" None, 'languageCodes': ['hi'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"drinka mai kya options hai? ->","completion":" None, 'languageCodes': ['hi'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"aur kya hai khane mai? ->","completion":" None, 'languageCodes': ['hi'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"khane mai kya milega ->","completion":" None, 'languageCodes': ['hi'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"shawrma hai? ->","completion":" 'shawarma', 'languageCodes': ['hi'], 'query': 'shawarma'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"paneer tika kitne ka hai? ->","completion":" 'paneer tika', 'languageCodes': ['hi'], 'query': 'paneer tika'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"extra shejwan chutani dena ->","completion":" 'shejwan chutani', 'languageCodes': ['hi'], 'query': 'shejwan chutani'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"misal pav hai ->","completion":" 'misal pav', 'languageCodes': ['hi'], 'query': 'misal pav'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"ramen dena ek plate ->","completion":" 'Ramen', 'languageCodes': ['hi'], 'query': 'Ramen'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"chiken tandoori dena ->","completion":" 'chiken tandoori', 'languageCodes': ['hi'], 'query': 'chiken tandoori'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"butter kulcha tin lana ->","completion":" 'butter kulcha', 'languageCodes': ['hi'], 'query': 'butter kulcha'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"veg thali mai kya milega ->","completion":" None, 'languageCodes': ['hi'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"2 roti order krdo ->","completion":" 'roti', 'languageCodes': ['hi'], 'query': '2 roti order'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"खाने में क्या है? ->","completion":" None, 'languageCodes': ['hi'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"आज ब्रेकफास्ट में क्या है? ->","completion":" None, 'languageCodes': ['hi'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"डिनर में क्या है? ->","completion":" None, 'languageCodes': ['hi'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"भाई मेनू लाना जरा ->","completion":" None, 'languageCodes': ['hi'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"मेनू में क्या है? ->","completion":" None, 'languageCodes': ['hi'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"आज का मेनू बता ->","completion":" None, 'languageCodes': ['hi'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"स्पेशल डिश क्या है आज मेनू में? ->","completion":" None, 'languageCodes': ['hi'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"वेज मेनू लाना ->","completion":" None, 'languageCodes': ['hi'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"ड्रिंक में क्या ऑप्शन्स हैं? ->","completion":" None, 'languageCodes': ['hi'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"और क्या है खाने में? ->","completion":" None, 'languageCodes': ['hi'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"खाने में क्या मिलेगा? ->","completion":" None, 'languageCodes': ['hi'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"शावर्मा है? ->","completion":" 'shawarma', 'languageCodes': ['hi'], 'query': 'shawarma'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"पनीर टिका कितने का है? ->","completion":" 'paneer tika', 'languageCodes': ['hi'], 'query': 'paneer tika'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"एक्स्ट्रा शेजवान चटनी देना ->","completion":" 'shejwan chutani', 'languageCodes': ['hi'], 'query': 'shejwan chutani'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"मिसल पाव है ->","completion":" 'misal pav', 'languageCodes': ['hi'], 'query': 'misal pav'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"रामेन देना एक प्लेट ->","completion":" 'Ramen', 'languageCodes': ['hi'], 'query': 'Ramen'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"चिकन तंदूरी देना ->","completion":" 'chiken tandoori', 'languageCodes': ['hi'], 'query': 'chiken tandoori'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"बटर कुलचा टिन लाना ->","completion":" 'butter kulcha', 'languageCodes': ['hi'], 'query': 'butter kulcha'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"वेज थाली में क्या मिलेगा ->","completion":" None, 'languageCodes': ['hi'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"वेज थाली में क्या मिलेगा ->","completion":" 'roti', 'languageCodes': ['hi'], 'query': '2 roti order'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"What is in the food? ->","completion":" None, 'languageCodes': ['en'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"What is for breakfast today? ->","completion":" None, 'languageCodes': ['en'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"What is for dinner? ->","completion":" None, 'languageCodes': ['en'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"Bring the menu please, brother ->","completion":" None, 'languageCodes': ['en'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"What's on the menu? ->","completion":" None, 'languageCodes': ['en'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"Tell me today's menu ->","completion":" None, 'languageCodes': ['en'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"What's the special dish on the menu today? ->","completion":" None, 'languageCodes': ['en'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"Bring the vegetarian menu ->","completion":" None, 'languageCodes': ['en'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"What are the drink options? ->","completion":" None, 'languageCodes': ['en'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"What else is there in the food? ->","completion":" None, 'languageCodes': ['en'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"What will be served in the food? ->","completion":" None, 'languageCodes': ['en'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"Is shawarma available? ->","completion":" 'shawarma', 'languageCodes': ['en'], 'query': 'shawarma'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"How much is paneer tikka? ->","completion":" 'paneer tika', 'languageCodes': ['en'], 'query': 'paneer tika'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"Please bring extra Schezwan chutney ->","completion":" 'shejwan chutani', 'languageCodes': ['en'], 'query': 'shejwan chutani'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"Is misal pav available? ->","completion":" 'misal pav', 'languageCodes': ['en'], 'query': 'misal pav'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"Please give me one plate of Ramen. ->","completion":" 'Ramen', 'languageCodes': ['en'], 'query': 'Ramen'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"Please give me Chicken Tandoori. ->","completion":" 'chiken tandoori', 'languageCodes': ['en'], 'query': 'chiken tandoori'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"Please bring three pieces of Butter Kulcha. ->","completion":" 'butter kulcha', 'languageCodes': ['en'], 'query': 'butter kulcha'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"What will I get in the vegetarian thali? ->","completion":" None, 'languageCodes': ['en'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"Please order two Rotis for me. ->","completion":" 'roti', 'languageCodes': ['en'], 'query': '2 roti order'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"खाण्यात काय आहे? ->","completion":" None, 'languageCodes': ['mr'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"आज ब्रेकफास्ट मध्ये काय आहे? ->","completion":" None, 'languageCodes': ['mr'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"डिनर मध्ये काय आहे? ->","completion":" None, 'languageCodes': ['mr'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"भाऊ, मेनू लानं जरा ->","completion":" None, 'languageCodes': ['mr'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"मेनू मध्ये काय आहे? ->","completion":" None, 'languageCodes': ['mr'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"आजचा मेनू बघणं जरा ->","completion":" None, 'languageCodes': ['mr'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"आजच्या मेनूमध्ये स्पेशल डिश काय आहे? ->","completion":" None, 'languageCodes': ['mr'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"व्हेज मेनू ला ->","completion":" None, 'languageCodes': ['mr'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"ड्रिंक मध्ये काय ऑप्शन आहेत? ->","completion":" None, 'languageCodes': ['mr'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"आणि खाण्यात काय आहे? ->","completion":" None, 'languageCodes': ['mr'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"खाण्यात काय मिळेल? ->","completion":" None, 'languageCodes': ['mr'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"शावर्मा आहे का? ->","completion":" 'shawarma', 'languageCodes': ['mr'], 'query': 'shawarma'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"पनीर टिका कितने का है? ->","completion":" 'paneer tika', 'languageCodes': ['mr'], 'query': 'paneer tika'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"एक्स्ट्रा शेजवान चटणी देणा ->","completion":" 'shejwan chutani', 'languageCodes': ['mr'], 'query': 'shejwan chutani'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"मिसळ पाव आहे ->","completion":" 'misal pav', 'languageCodes': ['mr'], 'query': 'misal pav'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"रामेन देणा एक प्लेट ->","completion":" 'Plate', 'languageCodes': ['mr'], 'query': 'Ramen'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"चिकन तंदूरी देणा ->","completion":" 'chiken tandoori', 'languageCodes': ['mr'], 'query': 'chiken tandoori'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"बटर कुलचा तीन लाना ->","completion":" 'butter kulcha', 'languageCodes': ['mr'], 'query': 'butter kulcha'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"वेज थाली मध्ये काय मिळेल? ->","completion":" None, 'languageCodes': ['mr'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"2 रोटी ऑर्डर करदो ->","completion":" 'roti', 'languageCodes': ['mr'], 'query': '2 roti order'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"ਖਾਣੇ ਮੈਂ ਕੀ ਹੈ? ->","completion":" None, 'languageCodes': ['pa'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"ਆਜ ਬਰਕਫਾਸਟ ਮੈਂ ਕੀ ਹੈ? ->","completion":" None, 'languageCodes': ['pa'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"ਡਿਨਰ ਮੈਂ ਕੀ ਹੈ? ->","completion":" None, 'languageCodes': ['pa'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"ਭਾਈ ਮੇਨੂ ਲਾਣਾ ਜਰਾ ->","completion":" None, 'languageCodes': ['pa'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"ਮੇਨੂ ਮੈਂ ਕੀ ਹੈ? ->","completion":" None, 'languageCodes': ['pa'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"ਅੱਜ ਦਾ ਮੇਨੂ ਬਤਾ ->","completion":" None, 'languageCodes': ['pa'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"ਸਪੈਸ਼ਲ ਡਿਸ਼ ਕੀ ਹੈ ਅੱਜ ਮੇਨੂ ਮੈਂ? ->","completion":" None, 'languageCodes': ['pa'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"ਵੈਜ ਮੇਨੂ ਲਾਣਾ ->","completion":" None, 'languageCodes': ['pa'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"ਡ੍ਰਿੰਕਾ ਮੈਂ ਕੀ ਵਿਕਲਪ ਹਨ? ->","completion":" None, 'languageCodes': ['pa'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"ਔਰ ਕੀ ਹੈ ਖਾਣੇ ਮੈਂ? ->","completion":" None, 'languageCodes': ['pa'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"ਖਾਣੇ ਮੈਂ ਕੀ ਮਿਲੇਗਾ ->","completion":" None, 'languageCodes': ['pa'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"ਸ਼ਾਵਰਮਾ ਹੈ? ->","completion":" 'shawarma', 'languageCodes': ['pa'], 'query': 'shawarma'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"ਪਨੀਰ ਟਿੱਕਾ ਕਿੱਤੇ ਦਾ ਹੈ? ->","completion":" 'paneer tika', 'languageCodes': ['pa'], 'query': 'paneer tika'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"ਐਕਸਟਰਾ ਸਿਚੁਆਨ ਚਟਣੀ ਦੇਣਾ ->","completion":" 'shejwan chutani', 'languageCodes': ['pa'], 'query': 'shejwan chutani'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"ਮਿਸਾਲ ਪਾਵ ਹੈ ->","completion":" 'misal pav', 'languageCodes': ['pa'], 'query': 'misal pav'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"ਰਾਮੇਨ ਦੇਣਾ ਇੱਕ ਪਲੇਟ ਲਈ ->","completion":" 'Plate', 'languageCodes': ['pa'], 'query': 'Ramen'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"ਚਿਕਨ ਤੰਦੂਰੀ ਦੇਣਾ ->","completion":" 'chiken tandoori', 'languageCodes': ['pa'], 'query': 'chiken tandoori'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"ਬਟਰ ਕੁਲਚਾ ਤਿੰਨ ਲਾਓ ->","completion":" 'butter kulcha', 'languageCodes': ['pa'], 'query': 'butter kulcha'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"ਵੈਗ ਥਾਲੀ ਮੈਂ ਕੀ ਮਿਲੇਗਾ ->","completion":" None, 'languageCodes': ['pa'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"2 ਰੋਟੀ ਆਰਡਰ ਕਰਦੋ ->","completion":" 'roti', 'languageCodes': ['pa'], 'query': '2 roti order'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"உணவில் என்ன உள்ளது? ->","completion":" None, 'languageCodes': ['ta'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"இன்று காலை உணவில் என்ன உள்ளது? ->","completion":" None, 'languageCodes': ['ta'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"இன்று இரவு உணவில் என்ன உள்ளது? ->","completion":" None, 'languageCodes': ['ta'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"பாய் மெனு லானா ஜாரா ->","completion":" None, 'languageCodes': ['ta'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"மெனுவில் என்ன உள்ளது? ->","completion":" None, 'languageCodes': ['ta'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"இன்று என்ன மெனு உள்ளது? ->","completion":" None, 'languageCodes': ['ta'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"சிறப்பு உணவு இன்னும் என்ன உள்ளது மெனுவில் இன்னும்? ->","completion":" None, 'languageCodes': ['ta'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"காய்கறி மெனு லானா ->","completion":" None, 'languageCodes': ['ta'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"பாருங்க உணவில் என்ன விருப்பங்கள் உள்ளன? ->","completion":" None, 'languageCodes': ['ta'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"உண்மையில் என்ன உணவு உள்ளது? ->","completion":" None, 'languageCodes': ['ta'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"உணவில் என்ன இருக்கும்? ->","completion":" None, 'languageCodes': ['ta'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"ஷார்மா உண்டா? ->","completion":" 'ஷார்மா', 'languageCodes': ['ta'], 'query': 'ஷார்மா'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"பன்னீர் டிக்கா எவ்வளவு விலை? ->","completion":" 'பன்னீர் டிக்கா', 'languageCodes': ['ta'], 'query': 'பன்னீர் டிக்கா'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"செய்வான் சட்னி கொடுக்கவும் ->","completion":" 'செய்வான் சட்னி', 'languageCodes': ['ta'], 'query': 'செய்வான் சட்னி'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"மிசால் பாவ் உண்டா? ->","completion":" 'மிசால் பாவ்', 'languageCodes': ['ta'], 'query': 'மிசால் பாவ்'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"ராமென் ஒரு பிளேட் கொடுங்கள் ->","completion":" 'பிளேட்', 'languageCodes': ['ta'], 'query': 'ராமென்'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"சிக்கன் தந்தூரி கொடுக்கவும் ->","completion":" 'சிக்கன் தந்தூரி', 'languageCodes': ['ta'], 'query': 'சிக்கன் தந்தூரி'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"பட்டர் குல்சா ஒரு டின் எடுக்கவும் ->","completion":" 'butter kulcha', 'languageCodes': ['ta'], 'query': 'butter kulcha'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}
+{"prompt":"சைவ தாளியில் என்ன இருக்கின்றது ->","completion":" None, 'languageCodes': ['ta'], 'query': None}, 'operationType': 'READ', 'userAction': 'SHOW_MENU'}"}
+{"prompt":"2 ரொட்டி ஆர்டர் செய்யவும் ->","completion":" 'roti', 'languageCodes': ['ta'], 'query': '2 roti order'}, 'operationType': 'READ', 'userAction': 'SEARCH_BY_FOOD_QUERY'}"}

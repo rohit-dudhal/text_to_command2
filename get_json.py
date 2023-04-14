@@ -4,10 +4,10 @@ import pandas as pd
 
 
 # Set up the OpenAI API client
-openai.api_key = "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"
+openai.api_key = "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"
 
 # Set up the model and prompt
-model_engine = "text-davinci-003"
+model_engine = "davinci:ft-personal-2023-04-14-07-28-56"
 global prompt 
 prompt=input()
 
