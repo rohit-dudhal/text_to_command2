@@ -1,10 +1,10 @@
 import os
 import openai
-openai.api_key = "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"
+openai.api_key = "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"
 
 # openai.api_key = os.getenv("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")
 # file_created = openai.File.create(
-#   file=open("text_json_prepared.jsonl", "rb"),
+#   file=open("prompt_update.jsonl", "rb"),
 #   purpose='fine-tune'
 # )
 # print(file_created)
@@ -14,8 +14,11 @@ openai.api_key = "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"
 # file_list = openai.File.list()
 # print(file_list)
 
-# fine_tune = openai.FineTune.create(training_file="file-9iYt9kis4lA07izJtdubLLie", model="davinci")
+# fine_tune = openai.FineTune.create(training_file="file-tkcZqM2ibLtSiHOy0GgEncXd", model="davinci")
 # print(fine_tune)
 
-fine_tune_list = openai.FineTune.list()
-print(fine_tune_list)
+result = openai.FineTune.result("ft-8Zl58j2xtRP9ggPqFErNdyje")
+print(result)
+
+# fine_tune_list = openai.FineTune.list()
+# print(fine_tune_list)

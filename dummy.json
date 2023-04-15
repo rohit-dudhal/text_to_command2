@@ -1,0 +1,2 @@
+{"prompt": "burger hai? ->", "completion": "'''{\"extraParams\": {\"item\": \"burger\", \"languageCodes\": [\"hi\"],\"query\": \"burger\"}, \"operationType\": \"READ\", \"userAction\": \"SEARCH_BY_FOOD_QUERY\"}'''"}
+{"prompt": "pizza hai? ->", "completion": "'''{\"extraParams\": {\"item\": \"pizza\", \"languageCodes\": [\"hi\"], \"query\": \"pizza\"}, \"operationType\": \"READ\", \"userAction\": \"SEARCH_BY_FOOD_QUERY\"}'''"}
