@@ -1,8 +1,7 @@
 import os
 import openai
-openai.api_key = "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"
+openai.api_key = "..."
 
-# openai.api_key = os.getenv("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")
 # file_created = openai.File.create(
 #   file=open("prompt_update.jsonl", "rb"),
 #   purpose='fine-tune'
